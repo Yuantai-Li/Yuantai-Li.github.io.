@@ -20,7 +20,7 @@ yuantl5@uw.edu
 
 #
 
-## Ernst & Young Consult Company (Shanghai, China)
+## [Ernst & Young Consult Company] (Shanghai, China)
 
 **Summer Intern** (March 2021 - July 2021)
 
@@ -29,3 +29,4 @@ yuantl5@uw.edu
 - Proficient in python, SAP and other programming languages, and adapt to the fast-paced working mode.
 
 [University of Washington]: https://www.washington.edu/
+[Ernst & Young Consult Company]: https://www.ey.com/en_cn/people/ey-greater-china
