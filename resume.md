@@ -1,8 +1,8 @@
 # Yuantai Li
 
-yuantl5@uw.edu
+>yuantl5@uw.edu
 
-+1(206)-839-7876
+>+1(206)-839-7876
 
 # Summary
 
