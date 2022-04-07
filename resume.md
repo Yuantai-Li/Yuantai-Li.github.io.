@@ -28,4 +28,4 @@ yuantl5@uw.edu
 - Participated in developing a important project for client companies, drew flow charts, sorted out data, took minutes of meetings, wrote develop blueprints, etc.
 - Proficient in python, SAP and other programming languages, and adapt to the fast-paced working mode.
 
-[University of Washington]: http://www.univ1.edu
+[University of Washington]: https://www.washington.edu/
