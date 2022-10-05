@@ -1,28 +1,18 @@
-# Topic Title
-![](url for an image about your topic)
+# Beats Electronics
+![Beats](img\beats.png)
 
-A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
+## Introduction
+**Beats Electronics LLC**, also known as Beats by Dr. Dre, or simply Beats by Dre, founded by hip-hop celebrities Dr.Dre and [Jimmy Lovine], is currently the top audio equipment brand in the United States. Due to its fashion design and rich colors, its earphones have high popularity and many fans both at home and abroad. In addition, the brand was acquired by Apple in 2014, so it also produces a lot of wireless headphones with good compatibility with Apple products.
 
-
-## Section 1
-One or several paragraphs.
-
-## Section 2
-One or several paragraphs.
-### (Optional) Subsection 1
-One or several paragraphs.
-### (Optional) Subsection 2
-One or several paragraphs.
-
-## Section 3
-One or several paragraphs for subsection 3.
+## In addition
+Beats headphones are suitable for listening to *pop and rock* music because they especially strengthen the bass part. But these days, products with excellent mid-range and high-range balance are also emerging. If you're looking for a stylish pair of headphones with excellent sound quality, don't miss Beats.
 
 ## See also
-- [Resource 1](url)
-- [Resource 2](url)
-- [Resource 3](url)
+- [Beats by Dre](https://www.beatsbydre.com/)
+- [What is Apple doing with Beats](https://www.soundguys.com/what-is-apple-doing-with-beats-20622/)
 
-## References
-1. Reference 1
-2. Reference 2
-3. Reference 3
+![Beats and apple](img\beatsandapple.png)
+
+
+### The products of **Beats** brand range from classic entry-level models to high-performance models. If you are considering the purchase advice, you can first consider the main purpose of your own, and then compare the functions and features of each series, so that you can lock the most suitable headphones faster.
+[Jimmy Lovine]: https://en.wikipedia.org/wiki/Jimmy_Iovine

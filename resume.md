@@ -10,7 +10,7 @@
 # Work Experience
 
 ## [University of Washington][](Seattle, WA)
-![UW](uw.jpg)
+![UW](img\uw.jpg)
 
 **Student Employee in IMA building and East Asia library)** (2019 - present)
 
